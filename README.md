@@ -42,26 +42,34 @@ Launch & Post-launch Support (Week 7)
 
 .
 
-UPDATE OF MOBILE APP
  
+### UPDATE OF MOBILE APP  
+
+Week 1:
+
+- Designed the UI/UX of my mobile app using Figma.
+  
+
+Week 2:
+
+- Downloaded Android Studio and explored some of its features.
  
- (Week 1)
+- Decided to use Visual Studio Code instead of Android Studio.
+   
+
+Week 3:
+
+- No further progress due to focus on other subjects.
  
-•	Designing the UI/UX of my mobile app using figma.
 
- (Week 2)
- 
-•	Downloading an Android Studio and some of the features and also deciding to used visual studio code instead of android studio.
+Week 4:
 
-(Week 3)
+- Searched on YouTube for ways to run Flutter without using an emulator or virtual devices.
+  
+- Decided to try running the app using Google Chrome.
+  
 
-•	No further improvement because of other subject.
+Weeks 5–7:
 
-(Week 4)
-
-•	Finding some source in the youtube how to run the flutter without emulator and virtual devices that’s the time I decided to try to run using google chrome
-
-(Week 5 – 7)
-
-•	No further improvement because of other subject.
-
+- No further progress due to focus on other subjects.
+  
